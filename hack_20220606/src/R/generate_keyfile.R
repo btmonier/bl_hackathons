@@ -1,4 +1,3 @@
-
 # find <path/to/file> -type f > keyfile_357.txt (SAMs)
 # fine <path/to/file> -type f > keyfile_357_assemblies.txt (contigs)
 # from keyfile_357.txt...
